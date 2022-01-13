@@ -1,0 +1,9 @@
+.App {
+  text-align: center;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: url("https://img.wallpapersafari.com/desktop/1920/1080/87/40/Lslm2z.jpg");
+  background-position: center center;
+}
